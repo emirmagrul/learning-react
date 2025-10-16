@@ -11,6 +11,8 @@ Burada yaptığım projeleri bulabilirsin. Her birinin kendi klasöründe, o pro
 | Proje Adı | Ne Yaptım? | Bu Projeyle Neler Kaptım? | Durum |
 | :--- | :--- | :--- | :--- |
 | **[Yapılacaklar Listesi](./react-todo-app/)** | Herkesin yaptığı o meşhur To-Do App'in benim versiyonum. React'e 'merhaba' demek için harika bir başlangıçtı. | `useState` ile tanıştım, bileşen (component) mantığını ve listeleri ekrana nasıl basacağımı öğrendim. | ✅ Bitti |
+| **[Basit Hesap Makinesi](./react-basic-calculator/)** | Dört işlem yapabilen, `useState` ve `useRef` hook'larını kullanan temel bir hesap makinesi. | `useState` ile state yönetimi, `useRef` ile input elemanına re-render olmadan erişme ve olay yönetimi (event handling) pekiştirildi. | ✅ Bitti |
+| **[Fetch User Data](./fetch-data/)** | Harici bir API'den (`randomuser.me`) veri çekip bu veriyi şık bir kart arayüzünde gösteren bir uygulama. | `useEffect` ile bileşen yüklendiğinde API isteği yapma, `useState` ile asenkron veri yönetimi ve koşullu render (conditional rendering) konuları öğrenildi. | ✅ Bitti |
 | ***Sıradaki Proje...*** | *...* | *...* | ⏳ Üzerinde Çalışıyorum |
 
 
